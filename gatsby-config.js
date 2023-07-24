@@ -6,5 +6,5 @@ module.exports = {
     title: `react-weather-app`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-sass", "gatsby-plugin-google-gtag"]
+  plugins: ["gatsby-plugin-sass"]
 };
