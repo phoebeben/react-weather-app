@@ -3,7 +3,11 @@ import * as React from "react"
 
 const IndexPage = () => {
   return (
-    <h1>Hi index !</h1>
+    <>
+    <div>
+      <h1>Hi index !</h1>
+    </div>
+    </>
   )
 }
 
